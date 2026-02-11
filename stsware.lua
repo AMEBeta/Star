@@ -38,6 +38,5 @@ local Window = Rayfield:CreateWindow({
 
 
 
-wait(5)
 Rayfield:Destroy()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/AMEBeta/Star/refs/heads/main/starware.lua'))()
