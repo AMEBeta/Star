@@ -7,7 +7,7 @@ if (not game:IsLoaded()) then
   
  
  -- Load the UI library with the purple theme
-local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AMEBeta/AMEBeta-v.1/refs/heads/main/starwareui.lua"))();
+local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AMEBeta/Star/refs/heads/main/starwareui.lua",true))();
   
  
  local PlaceId = game.PlaceId
